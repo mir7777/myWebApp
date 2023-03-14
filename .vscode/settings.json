@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/01f777b7-0a0a-43b9-a5d3-39185ec26c19/resourceGroups/MyGitHub/providers/Microsoft.Web/sites/MyMirWebApp"
+}

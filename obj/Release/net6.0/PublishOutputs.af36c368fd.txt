@@ -1,0 +1,7 @@
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.exe
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.json
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.dll
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.deps.json
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.runtimeconfig.json
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.pdb

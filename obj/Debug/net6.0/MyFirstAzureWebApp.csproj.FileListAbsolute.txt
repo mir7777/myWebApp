@@ -1,0 +1,2 @@
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Debug\net6.0\MyFirstAzureWebApp.exe
+C:\zenithn 관련자료\Doc\#교육관련자료\20230314_Azure Github\MyFirstAzureWebApp\bin\Debug\net6.0\MyFirstAzureWebApp.dll
